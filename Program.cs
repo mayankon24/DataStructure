@@ -6,6 +6,8 @@ namespace dataStructure
     {
         static void Main(string[] args)
         {
+            Duplicate obj = new Duplicate();
+            obj.DuplicateArray();
             Console.WriteLine("Hello World!");
         }
     }
