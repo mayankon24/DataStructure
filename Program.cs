@@ -6,8 +6,8 @@ namespace dataStructure
     {
         static void Main(string[] args)
         {
-            Duplicate obj = new Duplicate();
-            obj.DuplicateArray();
+            capitalLetterChange obj = new capitalLetterChange();
+            obj.matchpattern();
             Console.WriteLine("Hello World!");
         }
     }
